@@ -1,6 +1,8 @@
 Introduction
 ------------
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/02b1107a2c2d414a8f6886aebbf70930)](https://app.codacy.com/gh/suyu-emu/Yucom?utm_source=github.com&utm_medium=referral&utm_content=suyu-emu/Yucom&utm_campaign=Badge_Grade)
+
 **Proton** is a tool for use with the Steam client which allows games which are
 exclusive to Windows to run on the Linux operating system. It uses Wine to
 facilitate this.
